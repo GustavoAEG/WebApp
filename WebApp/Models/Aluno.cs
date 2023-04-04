@@ -11,6 +11,8 @@ namespace WebApp.Models
 
         public int Idade { get; set; }
 
+        public double Altura { get; set; }
+
 
     }
 }
